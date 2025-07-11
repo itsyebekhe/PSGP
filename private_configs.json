@@ -1,5 +1,9 @@
 {
     "NamiraNet": [
+        "vless://68bb20ad-d1e3-9b9e-09d6-a323da7a2128@45.159.148.79:6005?security=none&encryption=none&host=aparat.com&headerType=none&type=tcp#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%2045.159.148.79%20%7C%20%F0%9F%87%AE%F0%9F%87%B7",
+        "trojan://7778e684-f435-4166-bf9e-0256cb28bf10@download2hkt.windowsupdate.lol:443?security=tls#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20%7C%20%F0%9F%8C%90%20download2hkt.windowsupdate.lol%20%7C%20%F0%9F%87%BA%F0%9F%87%B8",
+        "vless://e4eb2fdd-d85b-4514-8a6f-796ba0bd0bd5@46.245.66.39:48822?path=%2F&security=none&encryption=none&type=ws#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%2046.245.66.39%20%7C%20%F0%9F%87%AE%F0%9F%87%B7",
+        "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@2.59.163.104:2222#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%94%92%20%7C%20%F0%9F%8C%90%202.59.163.104%20%7C%20%F0%9F%87%B5%F0%9F%87%B1",
         "vless://36af5106-2f6e-4889-8221-65b4d4115d9a@4.zeus40.ir:4444?security=&encryption=none&host=wordpress.org&headerType=http&type=tcp#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%204.zeus40.ir%20%7C%20%F0%9F%87%AC%F0%9F%87%A7",
         "vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=IwMtG3eIoM.vPbEtHoRvP002.iNfO&type=ws&alpn=h3h2&host=IwMtG3eIoM.vPbEtHoRvP002.iNfO&path=/#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20ipw.gfdv54cvghhgfhgj-njhgj64.info%20%7C%20%F0%9F%87%BA%F0%9F%87%B8",
         "vless://d89982f3-364e-44eb-a1f7-0d8e84f0a6f5@198.62.62.4:2096?encryption=none&security=tls&sni=638877796164837168.ahvaz-prx-dnraaad.info&type=ws&alpn=h3h2&host=638877796164837168.ahvaz-prx-dnraaad.info&path=/hqncdtws#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20198.62.62.4%20%7C%20%F0%9F%87%BA%F0%9F%87%B8",
@@ -44,11 +48,7 @@
         "vless://fc7ed3a4-da90-475f-a751-769eca257af7@172.67.215.65:2053?path=%2Fwsfarancemat&security=tls&alpn=http%2F1.1&encryption=none&host=fa2.alighan.ir&fp=chrome&type=ws&sni=fa1.alighan.ir#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20172.67.215.65%20%7C%20%F0%9F%87%BA%F0%9F%87%B8",
         "vless://e0915b37-0f47-4ec5-b4e7-63d0a9b91c01@45.95.2.192:28755?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%2045.95.2.192%20%7C%20%F0%9F%87%A7%F0%9F%87%AC",
         "vless://0f66ff66-1cd7-4237-8481-77cb6f1be0c4@135.181.201.193:21791?security=none&encryption=none&type=tcp&path=/&headerType=http#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20135.181.201.193%20%7C%20%F0%9F%87%AB%F0%9F%87%AE",
-        "vless://5427f902-81ae-4d95-8ed5-df9ef8a1e433@188.227.84.170:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20188.227.84.170%20%7C%20%F0%9F%87%B3%F0%9F%87%B1",
-        "vless://30f16365-ad8e-4e79-a0c4-68ce42bc8f60@139.162.188.193:21866/?type=tcp&security=none#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20139.162.188.193%20%7C%20%F0%9F%87%A9%F0%9F%87%AA",
-        "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%94%92%20%7C%20%F0%9F%8C%90%20185.47.253.227%20%7C%20%F0%9F%87%AA%F0%9F%87%A8",
-        "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%94%92%20%7C%20%F0%9F%8C%90%20185.47.255.22%20%7C%20%F0%9F%87%B5%F0%9F%87%B7",
-        "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTA1YTMyYi0wMTJjLTQ3MTEtODllMi03M2I2NzEzZWNhNzU=@pr.fastsoonlink.com:40030#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%94%92%20%7C%20%F0%9F%8C%90%20pr.fastsoonlink.com%20%7C%20%F0%9F%87%B5%F0%9F%87%B1"
+        "vless://5427f902-81ae-4d95-8ed5-df9ef8a1e433@188.227.84.170:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20188.227.84.170%20%7C%20%F0%9F%87%B3%F0%9F%87%B1"
     ],
     "Fr33C0nfig": [
         "vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#dmkb-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20",
