@@ -1,5 +1,8 @@
 {
     "NamiraNet": [
+        "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=%2F&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20104.26.6.89%20%7C%20%F0%9F%87%BA%F0%9F%87%B8",
+        "vless://4a4fbea4-2cbd-40d9-bbbd-dd49da8f86ac@nim.thuglife.ir:1111?security=&encryption=none&headerType=none&type=tcp#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20nim.thuglife.ir%20%7C%20%F0%9F%87%A9%F0%9F%87%AA",
+        "vless://96ed1f2d-8b93-4ea2-961e-570cd2dc99eb@fbi22.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20fbi22.wizard2shop.com%20%7C%20%F0%9F%87%AE%F0%9F%87%B7",
         "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@131.145.33.92:443#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%94%92%20%7C%20%F0%9F%8C%90%20131.145.33.92%20%7C%20%F0%9F%87%AC%F0%9F%87%A7",
         "vless://05471638-53a5-4033-8d47-3716f2e7ddb9@subseven.iranfreedomserver.com:20340?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20subseven.iranfreedomserver.com%20%7C%20%F0%9F%87%A9%F0%9F%87%AA",
         "vless://0132166f-e702-48ed-a9e7-b07af768faf8@5.10.214.251:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed&security=none&encryption=none&host=cf.d3z.net&type=ws&sni=cf.d3z.net\u062a\u0639\u062f\u0627\u062f\u062a\u0639\u062f\u0627\u062f#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%205.10.214.251%20%7C%20%F0%9F%87%A9%F0%9F%87%AA",
@@ -46,10 +49,7 @@
         "vless://ede36de8-4f92-403d-8873-6bc1a0052d19@mdi.xmeti.ir:23854?security=none&encryption=none&host=w3.com&headerType=http&type=tcp#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20mdi.xmeti.ir%20%7C%20%F0%9F%87%A9%F0%9F%87%AA",
         "trojan://7778e684-f435-4166-bf9e-0256cb28bf10@download2hkt.windowsupdate.lol:443?security=tls#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20%7C%20%F0%9F%8C%90%20download2hkt.windowsupdate.lol%20%7C%20%F0%9F%87%BA%F0%9F%87%B8",
         "vless://8438b531-dd7a-4779-9364-44f42576737b@217.69.4.95:52340?encryption=none&security=none&type=tcp&headerType=none#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20217.69.4.95%20%7C%20%F0%9F%87%AB%F0%9F%87%B7",
-        "vless://71b7cafa-7d98-4190-ae0f-6654886edd5b@germany.playshoptv.com:9090?security=&encryption=none&headerType=none&type=tcp#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20germany.playshoptv.com%20%7C%20%F0%9F%87%A9%F0%9F%87%AA",
-        "vless://1d845272-528e-4d76-a721-9de31bf1326f@dl2.pokerad.sbs:80?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20dl2.pokerad.sbs%20%7C%20%F0%9F%87%AE%F0%9F%87%B7",
-        "vless://1d845272-528e-4d76-a721-9de31bf1326f@de2.pokerad.top:80?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20de2.pokerad.top%20%7C%20%F0%9F%87%AE%F0%9F%87%B7",
-        "vless://a9c9c197-c626-4667-f219-1575f26715ac@172.66.40.99:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20172.66.40.99%20%7C%20%F0%9F%87%BA%F0%9F%87%B8"
+        "vless://71b7cafa-7d98-4190-ae0f-6654886edd5b@germany.playshoptv.com:9090?security=&encryption=none&headerType=none&type=tcp#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20germany.playshoptv.com%20%7C%20%F0%9F%87%A9%F0%9F%87%AA"
     ],
     "Fr33C0nfig": [
         "vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#dmkb-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20",
